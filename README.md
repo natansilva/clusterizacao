@@ -1,4 +1,17 @@
-Esse repositório possui uma analise de clusterização. A base utilizada para essa analise pode ser encontrada em: https://www.kaggle.com/arjunbhasin2013/ccdata
+# CLUSTERIZAÇÃO
+
+Esse repositório serve para guardar as minhas analises utilizando algoritmos de clusterização.
+
+
+## INSTALAÇÃO
+Para poder reproduzir essa analise voce de ter o seguinte itens instalados na sua maquina:
+1. Python
+2. Jupyter Notebook
+3. As bibliotecas do arquivo [requirements](./requirements.txt) desse projeto
+
+
+## BASE DE DADOS
+Estou utilizando uma base possui dados sobre comportamento de uso de cartão de crédito. Ela pode ser encontrada em: https://www.kaggle.com/arjunbhasin2013/ccdata
 
 Essa é a descrição das colunas (que também pode ser encontrada no link) e:
 
@@ -20,9 +33,3 @@ Essa é a descrição das colunas (que também pode ser encontrada no link) e:
 * MINIMUM_PAYMENTS : Minimum amount of payments made by user
 * PRCFULLPAYMENT : Percent of full payment paid by user
 * TENURE : Tenure of credit card service for user
-
-## INSTALAÇÃO
-Para poder reproduzir essa analise voce de ter o seguinte itens instalados na sua maquina:
-1. Python
-2. Jupyter Notebook
-3. As bibliotecas do arquivo [requirements](./requirements.txt) desse projeto
