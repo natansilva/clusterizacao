@@ -19,3 +19,5 @@ Para poder reproduzir essa analise voce de ter o seguinte itens instalados na su
 ## BASE DE DADOS
 Estou utilizando uma base possui dados sobre comportamento de uso de cartão de crédito disponivel no Kaggle.
 Ela pode ser encontrada [aqui](https://www.kaggle.com/arjunbhasin2013/ccdata)
+
+> [Brazilian Cities](https://www.kaggle.com/crisparada/brazilian-cities) by [Cristiana Parada](https://www.kaggle.com/crisparada) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
